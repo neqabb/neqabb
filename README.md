@@ -5,8 +5,6 @@ I'm Soren, A Full Stack Developer.
 </p>
 
 <h4 align="center">
-💻 Full Stack Discord Bot Developer <a href="https://discord.com/api/oauth2/authorize?client_id=1037049081169711214&permissions=8&scope=bot">Tangerine</a> | 🌱 building <a href="https://discord.com">A Robot</a> | 💬 connect <a href="https://discord.com">NotSorena#8692</a>
-</h4>
 <p  align="center">
 <a href="https://github.com/neqabb">https://github.com/neqabb</a>
 </p>
