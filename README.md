@@ -6,9 +6,7 @@ With Codes For a Long Time!
 
 
 
-## Used By
-
-My sources are getting used by 
+## Developer of
 
 - Dromax
 - IRMC Network
